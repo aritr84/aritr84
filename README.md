@@ -1,4 +1,5 @@
-# Hi there, I'm Aritra ![hi](https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836)
+# Hi there, I'm Aritra ![wave-hello](https://user-images.githubusercontent.com/65041325/158338471-2f444b3e-4e6e-4740-8fa5-3a111573516a.gif)
+
 <hr />
 # I am a Front End Developer from India.
 ## 

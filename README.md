@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, I'm Aritra ![hi](https://tenor.com/view/wave-hello-emote-flat-waving-gif-22026836)
+<hr />
+# I am a Front End Developer from India.
+## 
+
 
 <!--
 **aritr84/aritr84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

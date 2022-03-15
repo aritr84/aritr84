@@ -6,8 +6,8 @@
 <hr />
 ## About me 🙋🏻‍♂️
 <hr />
-* Currently I am learning JAVA for backend development.
-* Way to reach me : [aritrm@gmail.com](aritrm009@gmail.com)
+*Currently I am learning JAVA for backend development.
+*Way to reach me : aritrm009@gmail.com
 
 
 <!--

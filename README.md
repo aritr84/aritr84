@@ -3,7 +3,7 @@
 # I am a Front End Developer from India.
 
 ## About me 🙋🏻‍♂️
-* Currently I am learning JAVA for backend development.
+* Currently I am learning Android development.
 * 📪 : aritrm009@gmail.com
 
 ## Languages and Tools
